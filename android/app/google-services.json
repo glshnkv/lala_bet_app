@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366799913767",
+    "project_id": "lala-bet-app",
+    "storage_bucket": "lala-bet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366799913767:android:59acbf370524e53b219f02",
+        "android_client_info": {
+          "package_name": "com.laloiq.layq.utils"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5KaKHSFXZGRCLe_tnKDyc4AM8zGxiW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
